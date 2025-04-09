@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nathan's academic page"
+title                    : "Nathan's Homepage"
 title_separator          : "-"
 name                     : &name "Nathan Odic"
 description              : &description "personal description"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nathan-odic"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
