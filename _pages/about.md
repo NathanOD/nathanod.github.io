@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 👋 Hello there, I'm Nathan!
-======
+------
 I'm interested in computer vision.
