@@ -29,7 +29,7 @@ author:
   location         : "Montréal, QC, Canada"
   employer         : "Polytechnique Montréal"
   uri              : # URL
-  email            : "nathan.odic@polymtl.ca" 
+  email            : #"test@test.test" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
