@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Nathan!"
+title: "👋 Hello there"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a second-year master's student at Polytechnique Montréal, specializing in multimodal RGB-Depth image segmentation and 3D reconstruction for industrial applications. My research focuses on developing advanced computer vision techniques to enhance worker safety through accurate, real-time monitoring in collaborative environments involving both humans and robots.
+I'm a second-year master's student at Polytechnique Montréal, specializing in multimodal RGB-Depth image segmentation and 3D reconstruction for industrial applications. My research focuses on developing advanced computer vision techniques for segmenting objects that appear separated in images, enabling accurate monitoring to enhance worker safety in collaborative environments involving both humans and robots.
 
-More broadly, my research interests span computer vision and natural language processing, with a particular focus on effectively combining these two modalities while maintaining the richness of visual information.
+More broadly, my research interests lie in fine-grained vision-language comprehension, with a particular focus on spatial relation reasoning. I am interested in how language and visual information can be jointly leveraged to interpret and model detailed spatial relationships between objects, in order to preserve and utilize the richness of visual information.
+
+------
 
 Back when I was living in France, I interned on a project focused on enhancing customer care in contact centers through customer request classification, as well as satisfaction and emotion analysis. My work involved fine-tuning large language models and applying retrieval-augmented generation techniques.
 
