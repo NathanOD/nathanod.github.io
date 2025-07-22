@@ -11,7 +11,7 @@ I'm a second-year master's student at Polytechnique Montréal, specializing in m
 
 More broadly, my research interests lie in fine-grained vision-language comprehension, with a particular focus on spatial relation reasoning. I am interested in how language and visual information can be jointly leveraged to interpret and model detailed spatial relationships between objects, in order to preserve and utilize the richness of visual information.
 
-======
+------
 
 Back when I was living in France, I interned on a project focused on enhancing customer care in contact centers through customer request classification, as well as satisfaction and emotion analysis. My work involved fine-tuning large language models and applying retrieval-augmented generation techniques.
 
