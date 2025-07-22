@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master's student at Polytechnique Montréal, specializing in multimodal RGB-Depth image segmentation and 3D reconstruction for industrial applications. My research focuses on developing advanced computer vision techniques for segmenting objects that appear separated in images, enabling accurate monitoring to enhance worker safety in collaborative environments involving both humans and robots.
+I'm a graduating master's student at Polytechnique Montréal, specializing in multimodal RGB-Depth image segmentation and 3D reconstruction for industrial applications. My research focuses on developing advanced computer vision techniques for segmenting objects that appear separated in images, enabling accurate monitoring to enhance worker safety in collaborative environments involving both humans and robots.
 
 More broadly, my research interests lie in fine-grained vision-language comprehension, with a particular focus on spatial relation reasoning. I am interested in how language and visual information can be jointly leveraged to interpret and model detailed spatial relationships between objects, in order to preserve and utilize the richness of visual information.
 
